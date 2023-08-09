@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Ubuntu:wght@300&display=swap');
+
+.min-h-screen
+{
+    min-height: 100vh;
+}
+
+.bg-blue
+{
+    background-color: #4682B4;
+}
+
+.mx-auto
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex
+{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    display: flex;
+}
+
+.items-center
+{
+    align-items: center;
+}
+
+.justify-between
+{
+    justify-content: space-between;
+}
+
+.justify-center
+{
+    justify-content: center;
+}
+
+.align-center
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.flex-col
+{
+    flex-direction: column;
+}
+
+.my-1
+{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: 4rem;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.px-2
+{
+    padding-left: 13px;
+    padding-right: 13px;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.btn
+{
+    padding: 7px 12px;
+    border: 2px solid black;
+    border-radius: 6px;
+    color: white;
+    background-color: rgb(115, 115, 241);
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+}
+
+.text-center
+{
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.my-2
+{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: 4rem;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.btn1
+{
+    padding: 7px 12px;
+    color: black;
+    border-color: black;
+    background-color: white;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+}
+
+.text-size
+{
+    font-size: 4rem;
+}
+
+.text-size2
+{
+    font-size: x-large;
+}
+
+

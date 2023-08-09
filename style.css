@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Ubuntu&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.container
+{
+    max-width: 80vw;
+}
+
+.navbar
+{
+    display: flex;
+    height: 120px;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Ubuntu', sans-serif;
+    align-self: baseline;
+}
+
+.navbar li
+{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.topleft
+{
+    width: 50%;
+    height: 50vh;
+}
+
+.topright
+{
+    width: 50%;
+    height: 50vh;
+}
+
+.section2
+{
+    max-height: 100vh;
+    padding: 30px;
+}
+
+.section3
+{
+    padding: 50px;
+}
+
+.topright .railimg
+{
+    width: 700px;
+    justify-content: center;
+}
+
+.topleft .goalsimg
+{
+    width: 600px;
+}
+
+.box .benimg
+{
+    width: 250px;
+    height:300px;
+}
+
+.box
+{
+    padding: 8px 0;
+    margin: 12px 22px;
+    min-width: 3vw;
+    border: 2px solid black;
+    border-radius: 8px;
+}
